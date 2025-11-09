@@ -42,9 +42,6 @@
   ![Power BI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
   ![Tableau](https://img.shields.io/badge/tableau-blue.svg?style=for-the-badge&logo=tableau&logoColor=white)
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkm2ngyu00&layout=compact" height="195px">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkm2ngyu00&show_icons=true&theme=transparent)
-  
 </div>
 
 ---  
