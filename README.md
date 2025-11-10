@@ -2,9 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Min%20Gyu&fontSize=90)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaRoong2&count_bg=%2327364B&title_bg=%235F7D82&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/parkmingue00))
-  
-  
   ##
   ### 🛠Tech Stack🛠
   ##### Available Programming Language
