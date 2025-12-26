@@ -57,4 +57,4 @@
 >2024.03 ~ 2024.06 교내 프로젝트 '커리어타임'   
 >2024.03 ~ 2024.10 'AI 면접관 & 자소서 피드백'
 ### [ 2025 ]
->2024.07 ~ 현재 Frontend Developer in [AlpacaX](https://www.alpacax.com/ko-kr)   
+>2024.07 ~ 현재 Software Engineer in [AlpacaX](https://www.alpacax.com/ko-kr)   
